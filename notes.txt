@@ -1,1 +1,1 @@
-Class topic: Git.
+Class topic: Git and Python.
