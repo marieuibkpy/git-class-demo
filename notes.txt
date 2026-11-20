@@ -1,1 +1,1 @@
-My first Git project.
+My project now has an examples folder.
