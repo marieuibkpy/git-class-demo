@@ -1,1 +1,1 @@
-My project now has an examples folder.
+Class topic: Git.
